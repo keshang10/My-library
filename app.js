@@ -1,3 +1,4 @@
+//to run the app js
 'use strict';
 const form=document.getElementById('search-form');
 if(form){
